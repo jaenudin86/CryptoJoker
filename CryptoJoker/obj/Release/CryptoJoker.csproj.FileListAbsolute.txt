@@ -1,0 +1,7 @@
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\bin\Release\CryptoJoker.exe
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\bin\Release\CryptoJoker.pdb
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\obj\Release\CryptoJoker.Properties.Resources.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\obj\Release\CryptoJoker.csproj.GenerateResource.Cache
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\obj\Release\CryptoJoker.exe
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\obj\Release\CryptoJoker.pdb
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJoker\obj\Release\CryptoJoker.csprojResolveAssemblyReference.cache
