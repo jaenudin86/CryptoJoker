@@ -19,7 +19,7 @@ The dependency of CryptoJoker(both infector and decryptor) is .NET framework 2.0
 
 ## Script Kiddies
 
-This projecteven though is compile ready isn't meant for script kiddies that want to make some bucks by infecting people. 
+This project even though is compile ready isn't meant for script kiddies that want to make some bucks by infecting people. 
 The infector has been uploaded to Virus Total and is detected.
 
 ## Support
