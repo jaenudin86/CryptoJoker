@@ -7,6 +7,14 @@ on a Windows 10 Virtual Machine, is not meant to work in real world. CryptoJoker
 CryptoJoker uses a combination of a "custom XOR" encryption and RSA. A private public/private pair key is generated for every computer ... and the private
 key is delivered back to the "owner" through an e-mail account. The delivery method can very easily change to FTP or whatever you want.
 
+## How to use
+
+If you make a change in the infector you just have to re-build the project. If you make a change in the decryptor after building it, you need to replace it with the old one in the infector's resources.
+
+## Dependency
+
+The dependency of CryptoJoker(both infector and decryptor) is .NET framework 2.0 ... which is the smallest possible.
+
 ## Script Kiddies
 
 This projecteven though is compile ready isn't meant for script kiddies that want to make some bucks by infecting people. 
