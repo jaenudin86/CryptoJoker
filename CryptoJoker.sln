@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJoker", "CryptoJoker\CryptoJoker.csproj", "{4DF2237D-CFF3-48EA-9CB3-9303DE11FB39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJokerDecryptor", "CryptoJokerDecryptor\CryptoJokerDecryptor.csproj", "{F2FE41AD-8628-44EA-862E-2A843F8CB86E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF2237D-CFF3-48EA-9CB3-9303DE11FB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF2237D-CFF3-48EA-9CB3-9303DE11FB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF2237D-CFF3-48EA-9CB3-9303DE11FB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF2237D-CFF3-48EA-9CB3-9303DE11FB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FE41AD-8628-44EA-862E-2A843F8CB86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE41AD-8628-44EA-862E-2A843F8CB86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE41AD-8628-44EA-862E-2A843F8CB86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE41AD-8628-44EA-862E-2A843F8CB86E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
