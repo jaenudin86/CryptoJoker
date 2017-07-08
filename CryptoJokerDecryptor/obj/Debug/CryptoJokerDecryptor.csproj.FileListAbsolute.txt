@@ -1,0 +1,10 @@
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\bin\Debug\CryptoJoker.exe
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\bin\Debug\CryptoJoker.pdb
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerDecryptor.CryptoJokerDecryptor.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerDecryptor.KeyValidationWindow.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerDecryptor.Properties.Resources.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerDecryptor.csproj.GenerateResource.Cache
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJoker.exe
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJoker.pdb
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerDecryptor.DecryptionProgressBarForm.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerDecryptor.csprojResolveAssemblyReference.cache

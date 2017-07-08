@@ -1,0 +1,21 @@
+﻿	DECRYPTION PHASE
+
+--Step one(Preparation)--
+1. Check if the public key inserted has a valid length. If it has then proceed. There should be
+try-catches inside the RSA algorithms for errors. If error occure the user should be notified that
+the key is invalid.
+
+2. After checking if the key is valid then proceed in the password decryption process.
+Get the password from the appdata folder and decrypt it.
+
+2. Get all files in the current user folder.
+
+--Step Two(Decryption)
+3. Decrypt all files based on their extensions. If partially is contained, then decrypt
+the file partially. Else decrypt it fully.
+
+4. Remove the extensions from the file.
+
+--Step Three(Cleanup)
+5. Remove the password contained in the appdata folder.
+6. Remove the GUI and the text file that notifies the user about the ransomware from the desktop.

@@ -1,0 +1,7 @@
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerGUI.CryptoJokerGUI.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerGUI.Properties.Resources.resources
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJokerGUI.csproj.GenerateResource.Cache
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\bin\Debug\CryptoJoker.exe
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\bin\Debug\CryptoJoker.pdb
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJoker.exe
+C:\Users\Revolution\documents\visual studio 2017\Projects\CryptoJoker\CryptoJokerGUI\obj\Debug\CryptoJoker.pdb
