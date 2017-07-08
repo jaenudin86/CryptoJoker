@@ -1,5 +1,7 @@
 # CryptoJoker
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9vq5wxdty0wtfh8p?svg=true)](https://ci.appveyor.com/project/xXxRevolutionxXx/cryptojoker)
+
 ## Description
 
 CryptoJoker is a managed ransomware created for EDUCATION PURPOSES ONLY written exclusively in C#. Even though CryptoJoker has been succesfully tested
